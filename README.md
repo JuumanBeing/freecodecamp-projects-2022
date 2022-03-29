@@ -1,1 +1,2 @@
-# freecodecamp-projects-2022
+# FreeCodeCamp Projects 2022
+Asset hosting for projects on freecodecamp.org.
